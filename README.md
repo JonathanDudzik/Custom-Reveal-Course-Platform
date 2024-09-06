@@ -1,27 +1,37 @@
-# My role
-Lead Instructional Designer
+# My role 
+Developer and Instructional Designer
 
-# Project description
-I was hired as an instructional designer to help the Child and Adult Nutrition branch of the NC DHHS meet federal training requirements, improve public perception of our training program, and expand our asynchronous online course offerings. I started by creating e-learning courses in plain HTML, CSS, and JavaScript, but after my branch purchased Articulate 360, I began using Storyline and Rise.
+# Project description. 
+I designed, coded, and deployed this single page application (SPA) that improves the way coding is taught and learned. I leveraged right and left arrow buttons for main topic navigation, while up and down arrow buttons are used for exploring a topic more deeply. The SPA supports various types of engaging media, including images, audio recordings, and iframes. Since the SPA is built on top of the RevealJS presentation framework, there is documentation that makes it possible to make changes to the content with only a basic understanding of HTML.
 
 # Skills and deliverables
-Articulate Storyline
-Articulate Rise
+HTML
+CSS
+JavaScript
+GSAP
 Instructional Design
-Adobe LMS
-Collaboration
-Leadership
 
-> Published on September 5, 2024
+> Published on Jul 14, 2024 
 
-# Overview
-I collaborated with SMEs, created the majority of our online courses, and managed all aspects of our Adobe LMS.
+# Unique ability to explore text line-by-line
+When I created this SPA, I wanted to take a unique approach to exploring and explaining code. I decided to walk the audience through each line of code, highlighting the exact part being explained. It was a challenge to keep the voice recording and code highlighting in sync, but once I got the program logic right, updating and adding to the content became a cinch.
 
-# Challenges
-The main issue I had to address as the new instructional designer was that the SMEs were creating the training content and were reluctant to give that responsibility to someone else. However, without any guidance, their training was inconsistent, dull, and poorly received by many of the adult learners.
+# Focus on education and user experience standards
+The SPA is purposefully designed for both mobile and desktop screens. The UI and UX were vetted by a formally educated UI/UX professional (Mariana Pulgarin). Furthermore, as an instructional designer by trade, I paid close attention to the educational merit and organization of the content to ensure it was pedagogically sound and effective.
 
-# Execution
-I started in my role by asking the SMEs questions, talking to them about their pain points, and showing them how to improve their webinars. The most important thing I did was demonstrate that their role as SMEs was integral, but I could fix their pain points and enhance our training if they handed over the technical and design elements of the e-learning development to me.
+# Technical simplicity for easy hosting, maintainability, and modifications
+From a technical standpoint, this SPA consists of HTML, CSS, and JavaScript contained in a single folder that can be hosted almost anywhere and opened in any modern browser. Updating the content or styles is as simple as using a text editor to modify a single “index.html” file and some logically organized CSS.
 
-# Reflection
-Once the SMEs saw the amazing online training I was able to create with their guidance and feedback, they loved the idea of having me take the reins. I was able to achieve great things at the NC DHHS. The SMEs and upper management respected me as an expert in instructional design (likewise, I always showed respect for them as experts in their fields). I was also able to greatly improve our online training presence and the feedback we received from our adult learners.
+# Development lifecycle and best practices
+Being that I have kept this SPA as simple as possible, there is a standard and modern workflow for application development that provides the following benefits:
+  - Faster onboarding for developers
+  - Consistency across any hosting environment, including local, cloud, or on-premise
+  - Version-control with Git
+  - Issues reproduced and tracked easily
+  - Detailed audit trail for all changes.
+  - Reduced risk of unwanted changes and the ability to correct them before they go into production.
+  - Changes can require code peer-review, approval, and tests before being deployed into the production environment.
+  - Continuous integration and continuous deployment (CI/CD) is possible.
+
+# Conclusion
+This SPA shows that I can design and code complex web applications for clients who want a modern UX and UI that can educate and delight their audience. It also represents a significant effort on my part to advance the way coding and other subjects can be taught and learned. It has high UX and instructional design standards built-in, is based on well-documented and simple technology, and offers a development lifecycle that adheres to best practices.
